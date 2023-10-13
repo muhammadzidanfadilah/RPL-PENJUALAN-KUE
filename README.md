@@ -2,42 +2,51 @@
 
 # ANALISA
 
-- Masalah
+- Permasalahan
 
 Manajemen pesanan yang buruk: Tidak efisiennya pengelolaan pesanan dapat mengakibatkan keterlambatan pengiriman atau kesalahan pesanan.
 
 Masalah dalam pembayaran yaitu transaksi yang tidak sesuai atau harga berubah yang membuat pelanggan kurang puas
 
-Kurangnya pemasaran dan promosi: Jika tidak ada strategi pemasaran yang efektif, penjualan kue mungkin rendah.
+Kurangnya pemasaran dan promosi Jika tidak ada strategi pemasaran yang efektif, penjualan kue akan makin menurun.
 
-- Kebutuhan
+- Kebutuhan sistemnya
 
-Manajemen Pelanggan: Memiliki informasi pelanggan yang baik seperti riwayat pembelian dan preferensi akan membantu dalam membangun hubungan jangka panjang dan meningkatkan layanan pelanggan.
+Kita memerlukan perangkat keras dan lunak  untuk menjalankan bisnis yaitu komputer atau server dan sistem yang di inginkan untuk penjualan kue.
 
-Integrasi Pembayaran: Kemampuan untuk menerima berbagai jenis pembayaran seperti kartu kredit, transfer bank, atau pembayaran digital.
+Mempunyai database untuk menyimpan keseluruhan sistem penjualan yang kita inginkan karna berbasis aplikasi web mulai dari produk sistem pembayaran dan detail transaski maupun barang 
 
-Keamanan Data: Melindungi data pelanggan, data transaksi, dan informasi bisnis penting dari ancaman keamanan.
+memerlukan keamanan database backup bagi pelanggan agar merasa aman dalam transaksi maupun penyerangan terhadap aplikasi web.
+
 
 - Penyelesaian Masalah
 
-manajemen stok yang terintegrasi. Sistem ini memantau stok kue yang tersedia secara real-time, memberikan notifikasi ketika persediaan rendah, dan memungkinkan pemesanan otomatis untuk menghindari kekurangan atau kelebihan stok.
+manajemen stok yang terintegrasi sistem ini memantau stok kue yang tersedia secara real-time memberikan notifikasi ketika persediaan rendah dan memungkinkan pemesanan otomatis untuk menghindari kekurangan atau kelebihan stok.
 
 Masalah dalam pembayaran yaitu lebih menggunakan transaksi yang sesuai dengan standart atau aman bagi pengguna dan pengecekan kembali total belanja.
 
-Masalah dalam pemasaran atau promosi yaitu menggunakan sosial media atau iklan yang dapat meningkatkan penjualan produk.
+Masalah dalam pemasaran atau promosi yaitu menggunakan sosial media atau iklan yang dapat meningkatkan penjualan kue
+
 
 
 # USE CASE DIAGRAM PENJUALAN KUE
 
-![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/ba8547e4-3b3c-4dfd-b283-aec8df7e1804)
+![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/f75ed206-3b6d-4666-a240-9049a50c7726)
+
+
 
 
 
 # ACTIVITY DIAGRAM PENJUALAN KUE
 
-![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/94ac3b5f-dccc-4891-a01b-35f64056e015)
+![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/9bde3faa-4fb7-4533-be2b-07722672c3f4)
 
 
-# SQUACE DIAGRAM
 
-![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/2bc23ee1-d02d-491b-bd9c-36f208ce0d71)
+
+
+# SQUANCE DIAGRAM
+
+![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/9532235d-90de-464c-abf1-be534e12f0a2)
+
+
