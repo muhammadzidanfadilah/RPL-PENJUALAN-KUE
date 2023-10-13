@@ -47,6 +47,16 @@ Masalah dalam pemasaran atau promosi yaitu menggunakan sosial media atau iklan y
 
 # SQUANCE DIAGRAM
 
-![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/9532235d-90de-464c-abf1-be534e12f0a2)
+- Menu Login
+
+![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/a6038b20-ce0e-4429-bc94-8e729b63999a)
+
+
+- Menu Utama
+
+![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/ace85ee8-3cff-4f9b-b9d5-b3ebe9f3e38a)
+
+
+
 
 
