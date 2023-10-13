@@ -29,7 +29,10 @@ Masalah dalam pemasaran atau promosi yaitu menggunakan sosial media atau iklan y
 
 # USE CASE DIAGRAM PENJUALAN KUE
 
-![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/fdfd4d79-046b-4519-91cc-6cdb63a57c86)
+
+![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/50d4d54c-49f8-4547-9530-0602c932afcf)
+
+
 
 
 # ACTIVITY DIAGRAM PENJUALAN KUE
