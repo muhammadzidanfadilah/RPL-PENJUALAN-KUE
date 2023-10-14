@@ -4,11 +4,11 @@
 
 - A. Permasalahan
 
-Manajemen pesanan yang buruk Tidak efisiennya pengelolaan pesanan dapat mengakibatkan keterlambatan pengiriman atau kesalahan pesanan.
+Manajemen pesanan yang buruk tidak efisiennya pengelolaan pesanan dapat mengakibatkan keterlambatan pengiriman atau kesalahan pesanan.
 
 Masalah dalam pembayaran yaitu transaksi yang tidak sesuai atau harga berubah yang membuat pelanggan kurang puas.
 
-Kurangnya pemasaran dan promosi Jika tidak ada strategi pemasaran yang efektif penjualan kue akan makin menurun.
+Kurangnya pemasaran dan promosi jika tidak ada strategi pemasaran yang efektif penjualan kue akan makin menurun.
 
 - B. Kebutuhan Sistemnya
 
@@ -19,11 +19,11 @@ Mempunyai database untuk menyimpan keseluruhan sistem penjualan yang kita ingink
 Memerlukan keamanan database backup bagi pelanggan agar merasa aman dalam transaksi maupun penyerangan terhadap aplikasi web.
 
 
-- Penyelesaian Masalah
+- C. Penyelesaian Masalah
 
 Manajemen stok yang terintegrasi sistem ini memantau stok kue yang tersedia secara real-time memberikan notifikasi ketika persediaan rendah dan memungkinkan pemesanan otomatis untuk menghindari kekurangan atau kelebihan stok.
 
-Masalah dalam pembayaran yaitu lebih menggunakan transaksi yang sesuai dengan standart atau aman bagi pengguna dan pengecekan kembali total belanja.
+Masalah dalam pembayaran yaitu lebih menggunakan transaksi yang sesuai dengan standart atau aman bagi pengguna dan pengecekan kembali harga barang dan total belanja.
 
 Masalah dalam pemasaran atau promosi yaitu menggunakan sosial media atau iklan yang dapat meningkatkan penjualan kue.
 
