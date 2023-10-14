@@ -49,7 +49,9 @@ Masalah dalam pemasaran atau promosi yaitu menggunakan sosial media atau iklan y
 
 - Menu Utama
 
-![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/656f7d44-c264-4cda-984f-6d87349d83dc)
+
+![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/4d7fb57c-4d91-4f51-aa6f-e444f7332c6a)
+
 
 
 
