@@ -1,8 +1,8 @@
-# SISTEM OPERASI PENJUALAN KUE
+# 1. SISTEM OPERASI PENJUALAN KUE
 
-# ANALISA
+# 2. ANALISA
 
-- Permasalahan
+- A. Permasalahan
 
 Manajemen pesanan yang buruk: Tidak efisiennya pengelolaan pesanan dapat mengakibatkan keterlambatan pengiriman atau kesalahan pesanan.
 
@@ -10,18 +10,18 @@ Masalah dalam pembayaran yaitu transaksi yang tidak sesuai atau harga berubah ya
 
 Kurangnya pemasaran dan promosi Jika tidak ada strategi pemasaran yang efektif, penjualan kue akan makin menurun.
 
-- Kebutuhan sistemnya
+- B. Kebutuhan Sistemnya
 
 Kita memerlukan perangkat keras dan lunak  untuk menjalankan bisnis yaitu komputer atau server dan sistem yang di inginkan untuk penjualan kue.
 
 Mempunyai database untuk menyimpan keseluruhan sistem penjualan yang kita inginkan karna berbasis aplikasi web mulai dari produk sistem pembayaran dan detail transaski maupun barang 
 
-memerlukan keamanan database backup bagi pelanggan agar merasa aman dalam transaksi maupun penyerangan terhadap aplikasi web.
+Memerlukan keamanan database backup bagi pelanggan agar merasa aman dalam transaksi maupun penyerangan terhadap aplikasi web.
 
 
 - Penyelesaian Masalah
 
-manajemen stok yang terintegrasi sistem ini memantau stok kue yang tersedia secara real-time memberikan notifikasi ketika persediaan rendah dan memungkinkan pemesanan otomatis untuk menghindari kekurangan atau kelebihan stok.
+Manajemen stok yang terintegrasi sistem ini memantau stok kue yang tersedia secara real-time memberikan notifikasi ketika persediaan rendah dan memungkinkan pemesanan otomatis untuk menghindari kekurangan atau kelebihan stok.
 
 Masalah dalam pembayaran yaitu lebih menggunakan transaksi yang sesuai dengan standart atau aman bagi pengguna dan pengecekan kembali total belanja.
 
@@ -29,7 +29,7 @@ Masalah dalam pemasaran atau promosi yaitu menggunakan sosial media atau iklan y
 
 
 
-# USE CASE DIAGRAM PENJUALAN KUE
+ # 3. USE CASE DIAGRAM PENJUALAN KUE
 
 
 
@@ -41,9 +41,9 @@ Masalah dalam pemasaran atau promosi yaitu menggunakan sosial media atau iklan y
 
 
 
-# ACTIVITY DIAGRAM PENJUALAN KUE
+ # 4. ACTIVITY DIAGRAM PENJUALAN KUE
 
-- Menu Login
+- Menu Pendaftaran
 
 
 
@@ -56,7 +56,7 @@ Masalah dalam pemasaran atau promosi yaitu menggunakan sosial media atau iklan y
 
 
 
-- Menu Utama
+- Menu Utama Atau Menu Login Ketika Selesai Pendaftaran
 
 
 
@@ -71,9 +71,9 @@ Masalah dalam pemasaran atau promosi yaitu menggunakan sosial media atau iklan y
 
 
 
-# SQUANCE DIAGRAM
+ # 5. SQUANCE DIAGRAM PENJUALAN KUE
 
-- Menu Login
+- Menu Pendaftaran
 
 
 
@@ -87,10 +87,12 @@ Masalah dalam pemasaran atau promosi yaitu menggunakan sosial media atau iklan y
 
 
 
-- Menu Utama
+- Menu Utama Atau Menu Login Ketika Selesai Pendaftaran
 
 
-![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/3acd3577-8516-4c71-99bc-db813a51fb2a)
+
+![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/e9c28a44-302b-41a7-8de2-5909cdaf924a)
+
 
 
 
