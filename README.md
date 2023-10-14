@@ -25,7 +25,8 @@ Memerlukan keamanan database backup bagi pelanggan agar merasa aman dalam transa
 
 
 
-![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/8cf453c3-db7c-43b1-9a42-fef80c9a52a4)
+![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/fd0cf5ee-b3b7-4a4c-9d22-4fbdd859abd7)
+
 
 
 
@@ -40,7 +41,8 @@ Memerlukan keamanan database backup bagi pelanggan agar merasa aman dalam transa
 
 
 
-![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/f4c7a55e-22c5-4300-af53-bd80ab6ef044)
+![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/f552457e-9b6f-472a-b5cd-8a1e8da55260)
+
 
 
 
@@ -52,7 +54,9 @@ Memerlukan keamanan database backup bagi pelanggan agar merasa aman dalam transa
 
 
 
-![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/8e347a0a-01d6-4730-ad34-bb194133c380)
+![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/d3a83d31-39c4-4732-a7c2-5fd63861d9a1)
+
+
 
 
 
@@ -71,7 +75,8 @@ Memerlukan keamanan database backup bagi pelanggan agar merasa aman dalam transa
 
 
 
-![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/d4b79af2-ff89-4bbd-8546-b322a54d2ffa)
+![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/a9943184-19ed-431f-b36e-9d479dd302b0)
+
 
 
 
@@ -82,8 +87,10 @@ Memerlukan keamanan database backup bagi pelanggan agar merasa aman dalam transa
 - Menu Utama Atau Menu Login Ketika Selesai Pendaftaran
 
 
+![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/b2476ea2-21d7-4c41-aa21-2c0185946468)
 
-![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/e9c28a44-302b-41a7-8de2-5909cdaf924a)
+
+
 
 
 
