@@ -4,17 +4,17 @@
 
 - A. Permasalahan
 
-Manajemen pesanan yang buruk: Tidak efisiennya pengelolaan pesanan dapat mengakibatkan keterlambatan pengiriman atau kesalahan pesanan.
+Manajemen pesanan yang buruk Tidak efisiennya pengelolaan pesanan dapat mengakibatkan keterlambatan pengiriman atau kesalahan pesanan.
 
-Masalah dalam pembayaran yaitu transaksi yang tidak sesuai atau harga berubah yang membuat pelanggan kurang puas
+Masalah dalam pembayaran yaitu transaksi yang tidak sesuai atau harga berubah yang membuat pelanggan kurang puas.
 
-Kurangnya pemasaran dan promosi Jika tidak ada strategi pemasaran yang efektif, penjualan kue akan makin menurun.
+Kurangnya pemasaran dan promosi Jika tidak ada strategi pemasaran yang efektif penjualan kue akan makin menurun.
 
 - B. Kebutuhan Sistemnya
 
-Kita memerlukan perangkat keras dan lunak  untuk menjalankan bisnis yaitu komputer atau server dan sistem yang di inginkan untuk penjualan kue.
+Kita memerlukan perangkat keras seperti komputer dan perangkat lunak seperti sistem operasi yaitu manajemen penjualan dan sistem manajemen keuangan pada penjualan kue.
 
-Mempunyai database untuk menyimpan keseluruhan sistem penjualan yang kita inginkan karna berbasis aplikasi web mulai dari produk sistem pembayaran dan detail transaski maupun barang 
+Mempunyai database untuk menyimpan keseluruhan sistem penjualan yang kita inginkan karna berbasis aplikasi web mulai dari produk sistem pembayaran dan detail transaski maupun barang.
 
 Memerlukan keamanan database backup bagi pelanggan agar merasa aman dalam transaksi maupun penyerangan terhadap aplikasi web.
 
@@ -25,7 +25,7 @@ Manajemen stok yang terintegrasi sistem ini memantau stok kue yang tersedia seca
 
 Masalah dalam pembayaran yaitu lebih menggunakan transaksi yang sesuai dengan standart atau aman bagi pengguna dan pengecekan kembali total belanja.
 
-Masalah dalam pemasaran atau promosi yaitu menggunakan sosial media atau iklan yang dapat meningkatkan penjualan kue
+Masalah dalam pemasaran atau promosi yaitu menggunakan sosial media atau iklan yang dapat meningkatkan penjualan kue.
 
 
 
