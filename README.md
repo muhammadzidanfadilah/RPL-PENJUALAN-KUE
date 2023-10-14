@@ -39,7 +39,20 @@ Masalah dalam pemasaran atau promosi yaitu menggunakan sosial media atau iklan y
 
 # ACTIVITY DIAGRAM PENJUALAN KUE
 
-![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/9bde3faa-4fb7-4533-be2b-07722672c3f4)
+- Menu Login
+
+
+![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/dcb2955b-cf6a-4571-8a10-47bda6def935)
+
+
+
+
+- Menu Utama
+
+![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/656f7d44-c264-4cda-984f-6d87349d83dc)
+
+
+
 
 
 
@@ -49,12 +62,16 @@ Masalah dalam pemasaran atau promosi yaitu menggunakan sosial media atau iklan y
 
 - Menu Login
 
-![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/a6038b20-ce0e-4429-bc94-8e729b63999a)
+![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/51eae3bc-3031-4762-8dea-7171da5e561e)
+
 
 
 - Menu Utama
 
-![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/ace85ee8-3cff-4f9b-b9d5-b3ebe9f3e38a)
+![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/a735a4b2-a261-4663-84f5-1841e617871e)
+
+
+
 
 
 
