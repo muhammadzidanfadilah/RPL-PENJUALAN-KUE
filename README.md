@@ -90,6 +90,12 @@ Memerlukan keamanan database backup bagi pelanggan agar merasa aman dalam transa
 ![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/b2476ea2-21d7-4c41-aa21-2c0185946468)
 
 
+# CLASS DIAGRAN PENJUALAN KUE
+
+![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/10259626-c323-4c80-821a-8b4703daf864)
+
+
+
 
 
 
