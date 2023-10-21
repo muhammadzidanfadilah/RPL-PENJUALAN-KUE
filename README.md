@@ -2,29 +2,56 @@
 
 # 2. ANALISA
 
+- Pendahuluan
+       Jadi kita disini akan membuat sistem operasi dari salah satu penjualan yaitu penjualan kue yang dimana kita mempunnyai permasalahan dan kebutuhan sistem nya yang di mana kita harus terus mendesain sistem operasi penjualan kue yang dimana terdapat menu pendaftaran dan juga menu utama dimana kita harus mengisi sistem operasi itu sebaik mungkin dengan membuat beberapa diagram 
+
+
 - A. Permasalahan
 
-Masalah dalam pembayaran yaitu transaksi yang tidak sesuai atau harga berubah yang membuat pelanggan kurang puas.
+1. Masalah dalam pembayaran 
 
-Manajemen pelanggan ketika kita sulit memantau prefensi pelanggan seperti jenis produk kualitas dan harga dan memberikan layanan pelanggan efisien.
+yaitu transaksi yang tidak sesuai atau harga berubah yang membuat pelanggan kurang puas sehingga menurunkan kepercayaan bagi pelanggan yang berkunjung ke web atau aplikasi kita itu sendiri.
 
-Keamanan data yaitu ancaman keamanan data pelanggan dan informasi transaski yang harus di atasi
+2. Manajemen pelanggan 
 
-Masalah dalam pelayanan pelanggan dimana kita bersikap butuk atau kurang tepat dalam melayani pelanggan.
+ketika kita sulit memantau prefensi pelanggan seperti jenis produk kualitas dan harga dan memberikan layanan pelanggan efisien yang menyebabkan kita harus kehilangan pelanggan karna kurang memantau prefensi pelanggan itu sendiri.
 
-Konsistensi dalam kulitas kue dimana kita harus selalalu menjaga kualitas produk kita agar tetap menjadi pilihan yang terbaik.
+3. Keamanan data 
+
+yaitu ancaman keamanan data pelanggan dan informasi transaski yang harus di atasi bagi kita pemyedia layanan penjualan kue supaya pelanggan percaya bahwa keamanan data ketika mengakses terjamin.
+
+4. Masalah dalam pelayanan pelanggan
+
+dimana kita bersikap butuk atau kurang tepat dalam melayani pelanggan ketika pelanggan mendapatkan perilaku atau bersikap buruk maka pelanggam otomatis tidak akan kembali lagi pada toko kita.
+
+5. Konsistensi dalam kulitas kue 
+
+dimana kita harus selalalu menjaga kualitas produk kita agar tetap menjadi pilihan yang terbaik maka kita akan selalu kedatangan pelanggan yang dimana pelanggan sendiri itu suka dengan kualitas kue yang baik.
 
 - B. Kebutuhan Sistemnya
 
-Kita memerlukan perangkat keras seperti komputer dan perangkat lunak seperti sistem operasi yaitu manajemen penjualan dan sistem manajemen keuangan pada penjualan kue.
+1. Kita memerlukan perangkat keras 
 
-Mempunyai database untuk menyimpan keseluruhan sistem penjualan yang kita inginkan karna berbasis aplikasi web mulai dari produk sistem pembayaran dan detail transaski maupun barang.
+seperti komputer dan perangkat lunak seperti sistem operasi yaitu manajemen penjualan dan sistem manajemen keuangan pada penjualan kue perangkat keras dan lunak ini sangat penting sekali untuk menunjang sistem yang kita jalankan karna dapat membantu sekali kita dalam memudahkan segala urusan.
 
-Memerlukan keamanan database backup bagi pelanggan agar merasa aman dalam transaksi maupun penyerangan terhadap aplikasi web.
+2. Mempunyai database 
 
-Kita memerlukan perangkat jaringan yang memadai atau sesuai ketika kita memiliki pelanggan maka tidak ada keterlambatan dalam respon dan lain lain.
+untuk menyimpan keseluruhan sistem penjualan yang kita inginkan karna berbasis aplikasi web mulai dari produk sistem pembayaran dan detail transaski maupun barang yang kita belanjakan pada took itu sendiri yang dimana database ini sangat penting sekali bagi pelaku usaha berbasis web atau aplikasi.
 
-Menjamin web atau aplikasi mudah di gunakan dalam hal pembelian pembayaran dan lain lain.
+3. Memerlukan keamanan database 
+
+backup bagi pelanggan agar merasa aman dalam transaksi maupun penyerangan terhadap aplikasi web keamanan dalam sistem ini juga sangat penting sekali dimana sistem harus terjamin aman sebelum digunakan karna beresiko dalam database kita itu sendiri dapat mengurangi efektivitas dalam pengguanan web itu sendiri jika ada gangguan dalam database.
+
+4. Opsi pemulihan dalam database
+
+Pada saat kita membuat server databse alangkah baiknya kita mempertimbangkan dalam penggunaan opsi pemulihan karna apabila terjadi sesuatu dalam server kita seperti kerusakan pada server fisik kebakaran dan lain lain maka dengan adanya opsi pemulihan ini dapat mengurangi resiko kita dalam kehilangan data itu sendiri karna sudah ada opsi pemulihan yang ada pada sever database kita
+
+
+5. Menjamin sistem web atau aplikasi mudah di gunakan 
+
+dalam hal pembelian pembayaran dan lain lain kita sebagai penjual atau penyedia web server maka harus memastikan bahwa web yang kita buat mudah di pahami  bagi anak-anak dan orang dewasa karna itu wajib bagi kebutuhan sistem itu sendiri
+
+
 
 
  # 3. USE CASE DIAGRAM PENJUALAN KUE
@@ -96,9 +123,9 @@ Menjamin web atau aplikasi mudah di gunakan dalam hal pembelian pembayaran dan l
 ![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/b2476ea2-21d7-4c41-aa21-2c0185946468)
 
 
-# CLASS DIAGRAN PENJUALAN KUE
+# 6. CLASS DIAGRAM PENJUALAN KUE
 
-![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/5f219ef4-6305-4c27-8bcd-4489be271ea7)
+![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/5ba5a377-3540-4b7d-a3a8-2f3cf3264b11)
 
 
 
