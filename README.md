@@ -10,6 +10,10 @@ Manajemen pelanggan ketika kita sulit memantau prefensi pelanggan seperti jenis 
 
 Keamanan data yaitu ancaman keamanan data pelanggan dan informasi transaski yang harus di atasi
 
+Masalah dalam pelayanan pelanggan dimana kita bersikap butuk atau kurang tepat dalam melayani pelanggan.
+
+Konsistensi dalam kulitas kue dimana kita harus selalalu menjaga kualitas produk kita agar tetap menjadi pilihan yang terbaik.
+
 - B. Kebutuhan Sistemnya
 
 Kita memerlukan perangkat keras seperti komputer dan perangkat lunak seperti sistem operasi yaitu manajemen penjualan dan sistem manajemen keuangan pada penjualan kue.
@@ -18,7 +22,9 @@ Mempunyai database untuk menyimpan keseluruhan sistem penjualan yang kita ingink
 
 Memerlukan keamanan database backup bagi pelanggan agar merasa aman dalam transaksi maupun penyerangan terhadap aplikasi web.
 
+Kita memerlukan perangkat jaringan yang memadai atau sesuai ketika kita memiliki pelanggan maka tidak ada keterlambatan dalam respon dan lain lain.
 
+Menjamin web atau aplikasi mudah di gunakan dalam hal pembelian pembayaran dan lain lain.
 
 
  # 3. USE CASE DIAGRAM PENJUALAN KUE
