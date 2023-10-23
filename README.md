@@ -1,9 +1,9 @@
-# 1. SISTEM OPERASI PENJUALAN KUE
+# 1. SISTEM INFORMASI PENJUALAN KUE
 
 # 2. ANALISA
 
 - Pendahuluan
-       Jadi kita disini akan membuat sistem operasi dari salah satu penjualan yaitu penjualan kue yang dimana kita mempunnyai permasalahan dan kebutuhan sistem nya yang di mana kita harus terus mendesain sistem operasi penjualan kue yang dimana terdapat menu pendaftaran dan juga menu utama dimana kita harus mengisi sistem operasi itu sebaik mungkin dengan membuat beberapa diagram 
+       Jadi kita disini akan membuat sistem informasi dari salah satu penjualan yaitu penjualan kue yang dimana kita mempunnyai permasalahan dan kebutuhan sistem nya yang di mana kita harus terus mendesain sistem informasi penjualan kue yang dimana terdapat menu pendaftaran dan juga menu utama dimana kita harus mengisi sistem informasi itu sebaik mungkin dengan membuat beberapa diagram 
 
 
 - A. Permasalahan
@@ -36,7 +36,7 @@ seperti komputer dan perangkat lunak seperti sistem operasi yaitu manajemen penj
 
 2. Mempunyai database 
 
-untuk menyimpan keseluruhan sistem penjualan yang kita inginkan karna berbasis aplikasi web mulai dari produk sistem pembayaran dan detail transaski maupun barang yang kita belanjakan pada took itu sendiri yang dimana database ini sangat penting sekali bagi pelaku usaha berbasis web atau aplikasi.
+untuk menyimpan keseluruhan sistem penjualan yang kita inginkan karna berbasis aplikasi web mulai dari produk sistem pembayaran dan detail transaski maupun barang yang kita belanjakan pada toko itu sendiri yang dimana database ini sangat penting sekali bagi pelaku usaha berbasis web atau aplikasi.
 
 3. Memerlukan keamanan database 
 
