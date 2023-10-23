@@ -125,8 +125,7 @@ dalam hal pembelian pembayaran dan lain lain kita sebagai penjual atau penyedia 
 
 # 6. CLASS DIAGRAM PENJUALAN KUE
 
-![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/6ec4574d-deb4-4bef-9619-586a140feaf1)
-
+![image](https://github.com/muhammadzidanfadilah/RPL-PENJUALAN-KUE/assets/115553474/6bde3405-a320-423d-b915-8b433b6f9a6a)
 
 
 
