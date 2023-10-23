@@ -3,7 +3,7 @@
 # 2. ANALISA
 
 - Pendahuluan
-       Jadi kita disini akan membuat sistem informasi dari salah satu penjualan yaitu penjualan kue yang dimana kita mempunnyai permasalahan dan kebutuhan sistem nya yang di mana kita harus terus mendesain sistem informasi penjualan kue yang dimana terdapat menu pendaftaran dan juga menu utama dimana kita harus mengisi sistem informasi itu sebaik mungkin dengan membuat beberapa diagram 
+       Jadi kita disini akan membuat sistem informasi dari salah satu penjualan yaitu penjualan kue yang dimana kita mempunyai permasalahan dan kebutuhan sistem nya yang di mana kita harus terus mendesain sistem informasi penjualan kue yang dimana terdapat menu pendaftaran dan juga menu utama dimana kita harus mengisi sistem informasi itu sebaik mungkin dengan membuat beberapa diagram 
 
 
 - A. Permasalahan
