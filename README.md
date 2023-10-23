@@ -16,7 +16,7 @@ yaitu transaksi yang tidak sesuai atau harga berubah yang membuat pelanggan kura
 
 ketika kita sulit memantau prefensi pelanggan seperti jenis produk kualitas dan harga dan memberikan layanan pelanggan efisien yang menyebabkan kita harus kehilangan pelanggan karna kurang memantau prefensi pelanggan itu sendiri.
 
-3. Keamanan data 
+3. Keamanan data
 
 yaitu ancaman keamanan data pelanggan dan informasi transaski yang harus di atasi bagi kita penyedia layanan penjualan kue supaya pelanggan percaya bahwa keamanan data ketika mengakses terjamin.
 
