@@ -18,21 +18,21 @@ ketika kita sulit memantau prefensi pelanggan seperti jenis produk kualitas dan 
 
 3. Keamanan data 
 
-yaitu ancaman keamanan data pelanggan dan informasi transaski yang harus di atasi bagi kita pemyedia layanan penjualan kue supaya pelanggan percaya bahwa keamanan data ketika mengakses terjamin.
+yaitu ancaman keamanan data pelanggan dan informasi transaski yang harus di atasi bagi kita penyedia layanan penjualan kue supaya pelanggan percaya bahwa keamanan data ketika mengakses terjamin.
 
 4. Masalah dalam pelayanan pelanggan
 
-dimana kita bersikap butuk atau kurang tepat dalam melayani pelanggan ketika pelanggan mendapatkan perilaku atau bersikap buruk maka pelanggam otomatis tidak akan kembali lagi pada toko kita.
+dimana kita bersikap buruk atau kurang tepat dalam melayani pelanggan ketika pelanggan mendapatkan perilaku atau bersikap buruk maka pelanggam otomatis tidak akan kembali lagi pada toko kita.
 
 5. Konsistensi dalam kulitas kue 
 
-dimana kita harus selalalu menjaga kualitas produk kita agar tetap menjadi pilihan yang terbaik maka kita akan selalu kedatangan pelanggan yang dimana pelanggan sendiri itu suka dengan kualitas kue yang baik.
+dimana kita harus selalu menjaga kualitas produk kita agar tetap menjadi pilihan yang terbaik maka kita akan selalu kedatangan pelanggan yang dimana pelanggan sendiri itu suka dengan kualitas kue yang baik.
 
 - B. Kebutuhan Sistemnya
 
-1. Kita memerlukan perangkat keras 
-
-seperti komputer dan perangkat lunak seperti sistem operasi yaitu manajemen penjualan dan sistem manajemen keuangan pada penjualan kue perangkat keras dan lunak ini sangat penting sekali untuk menunjang sistem yang kita jalankan karna dapat membantu sekali kita dalam memudahkan segala urusan.
+1. Kita memerlukan perangkat keras dan perangkat lunak
+  
+yaitu seperti komputer, pada manajemen penjualan dan sistem manajemen keuangan pada penjualan kue perangkat keras dan lunak ini sangat penting sekali untuk menunjang sistem yang kita jalankan karna dapat membantu sekali kita dalam memudahkan segala urusan.
 
 2. Mempunyai database 
 
@@ -49,7 +49,7 @@ Pada saat kita membuat server databse alangkah baiknya kita mempertimbangkan dal
 
 5. Menjamin sistem web atau aplikasi mudah di gunakan 
 
-dalam hal pembelian pembayaran dan lain lain kita sebagai penjual atau penyedia web server maka harus memastikan bahwa web yang kita buat mudah di pahami  bagi anak-anak dan orang dewasa karna itu wajib bagi kebutuhan sistem itu sendiri
+dalam hal pembelian pembayaran dan lain lain kita sebagai penjual atau penyedia web server maka harus memastikan bahwa web yang kita buat mudah di pahami bagi anak-anak dan orang dewasa karna itu wajib bagi kebutuhan sistem itu sendiri
 
 
 
